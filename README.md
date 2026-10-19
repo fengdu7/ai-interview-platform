@@ -429,6 +429,12 @@ docker-compose down -v
 
 ---
 
+## 致谢
+
+本项目工程代码基于开源项目 [interview-guide](https://github.com/Snailclimb/interview-guide) 修改开发，感谢原作者的开源贡献。
+
+---
+
 ## 十三、贡献与许可证
 
 欢迎提交 Issue 和 Pull Request！
